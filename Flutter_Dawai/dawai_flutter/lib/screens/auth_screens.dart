@@ -3,7 +3,6 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 
 import '../core.dart';
-import '../data.dart';
 import 'home_screen.dart';
 
 // ================= SPLASH SCREEN =================
